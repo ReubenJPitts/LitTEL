@@ -1,0 +1,745 @@
+ID,Feature_ID,Language_ID,Value,Date,Source,Note,Code_ID,Reminder (delete this column)
+AUTOMATIC,Pos_Coord,lati1261,1,-300,"Pitts 2023, 227",only postpositional -que is attested in the earliest epigraphy,Pos_Coord_1,
+,Pos_Coord,lati1261,0,-200,"Pinkster 2021, 622",et is dominant over -que in Plautus,Pos_Coord_0,
+,Pos_Coord,lati1261,0,-26,"Pinkster 2021, 622",et is dominant in most classical authors,Pos_Coord_0,
+,Pos_Coord,lati1261,0,79,"Pinkster 2021, 621",et is dominant in graffiti at Pompeii,Pos_Coord_0,
+,Pos_Coord,lati1261,0,400,"Pinkster 2021, 622",et is vastly dominant in Augustine's work,Pos_Coord_0,
+,Ord_Gen,lati1261,0,-185,"Bauer 2009, 265",In the Senatus Consultum de Bacchanalibus the order GN predominates,Ord_Gen_0,
+,Ord_Gen,lati1261,1,-26,"Bauer 2009, 266","In Classical Latin NG is less marked, perhaps as early as Plautus",Ord_Gen_1,
+,Ord_Gen,lati1261,1,400,"Bauer 2009, 267",In later Latin the tendency towards NG strengthens,Ord_Gen_1,
+,Ord_Adj,lati1261,0,-200,"Pitts 2023, 184",In early Latin adjectives tend to follow the noun,Ord_Adj_0,
+,Ord_Adj,lati1261,0,-600,"Pitts 2023, 184",In early Latin adjectives tend to follow the noun,Ord_Adj_0,
+,Ord_Gen,lati1261,0,-300,"Pitts 2023, 179",In the earliest Latin genitives precede,Ord_Gen_0,
+,Ord_Obj,lati1261,0,-650,"Pitts 2023, 166",From its earliest attestation Latin shows OV word order,Ord_Obj_0,
+,Ord_Obj,lati1261,0,-185,"Bauer 2009, 265",In the Senatus Consultum de Bacchanalibus the verb-final order predominates,Ord_Obj_0,
+,Ord_Obj,lati1261,0,-200,"Bauer 2009, 269","Plautus prefers OV, although with a significant proportion of OV",Ord_Obj_0,
+,Ord_Obj,lati1261,1,385,"Adams 1976, 93",The Peregrinatio Aetheriae prefers VO,Ord_Obj_1,
+,Ord_Obj,lati1261,1,110,"Adams 1976, 94",The letters of Terentianus show a preference for VO,Ord_Obj_1,
+,Ord_Obj,lati1261,0,-26,"Adams 1976, 94",Classical authors prefer OV,Ord_Obj_0,
+,Overt_Acc,lati1261,1,-550,CEIPoM,From its earliest attestation Latin has a productive accusative case,Overt_Acc_1,
+,Agr_Acc,lati1261,1,-550,CEIPoM,From its earliest attestation Latin has a productive accusative case,Agr_Acc_1,
+,Agr_Loc,lati1261,0,-300,CEIPoM,From its earliest attestation Latin expresses productive locatives analytically,Agr_Loc_0,
+,Agr_Dat,lati1261,1,-600,CEIPoM,From its earliest attestation Latin has a productive dative case,Agr_Dat_1,
+,Agr_Dat,lati1261,0,600,"Clackson & Horrocks 2011, 277",An analytic ad takes over dative functions,Agr_Dat_0,
+,Agr_Dat,lati1261,1,400,Vulgate,In the Vulgate Latin has a productive dative case,Agr_Dat_1,
+,Rank_Temp,lati1261,1,-200,CEIPoM,"Both balanced and deranked exist, but participial (e.g. absolute) deranked appear to predominate",Rank_Temp_1,
+,Rank_Temp,lati1261,1,-26,AGDT,Classical texts mostly deranked? (participial and subjunctives),Rank_Temp_1,
+,Rank_Temp,lati1261,1,400,Vulgate,Deranked? subjunctives?,Rank_Temp_1,
+,Aff_Nom,lati1261,0,-650,CEIPoM,Latin nominal system mostly suffixal from earliest attestation,Aff_Nom_0,
+,Aff_Vrb,lati1261,0,-650,CEIPoM,Latin nominal system mostly suffixal from earliest attestation,Aff_Vrb_0,
+,Loc_Obj,lati1261,1,-550,CEIPoM,Latin objects are dependent-marked from the earliest attestation,Loc_Obj_1,
+,Loc_Gen,lati1261,0,-650,CEIPoM,Latin genitives are dependent-marked from the earliest attestation,Loc_Gen_0,
+,Agr_Gend,lati1261,1,-650,CEIPoM,Latin shows gender agreement from its earliest attestation,Agr_Gend_1,
+,Pos_Coord,osca1245,0,-300,CEIPoM,Oscan has only the medial coordinator íním,Pos_Coord_0,
+,Pos_Coord,osca1245,0,-100,CEIPoM,Oscan has only the medial coordinator íním,Pos_Coord_0,
+,Overt_Acc,osca1245,1,,"Wallace 2007, 18",Oscan has an overt accusative,Overt_Acc_1,
+,Agr_Acc,osca1245,1,,"Wallace 2007, 18",Oscan expresses all relevant case relations synthetically,Agr_Acc_1,
+,Agr_Acc,osca1245,1,,"Wallace 2007, 18",Oscan expresses all relevant case relations synthetically,Agr_Acc_1,
+,Agr_Acc,osca1245,1,,"Wallace 2007, 18",Oscan expresses all relevant case relations synthetically,Agr_Acc_1,
+,Aff_Nom,osca1245,0,,Wallace 2007,,Aff_Nom_0,
+,Aff_Vrb,osca1245,0,,Wallace 2007,,Aff_Vrb_0,
+,Loc_Obj,osca1245,1,,Wallace 2007,,Loc_Obj_1,
+,Loc_Gen,osca1245,0,,Wallace 2007,,Loc_Gen_0,
+,Rank_Temp,osca1245,0,,"Wallace 2007, 43","Balanced (indicative in subordinate clauses, not many examples of abl. abs.)",Rank_Temp_0,
+,Agr_Gend,osca1245,1,,Wallace 2007,,Agr_Gend_1,
+,Ord_Acc,osca1245,0,,"Pitts 2023, 168",Throughout its attestation Oscan is OV,Ord_Acc_0,
+,Ord_Gen,osca1245,0,,"Pitts 2023, 184",Throughout its attestation Oscan non-proper genitives tend to precede their head noun,Ord_Gen_0,
+,Ord_Adj,osca1245,0,,"Pitts 2023, 179",Throughout its attestation Oscan adjectives tend to precede their noun,Ord_Adj_0,
+,Align_Nom,osca1245,0,,Wallace 2007,Oscan shows accusative alignment,Align_Nom_0,
+,Rel_Clause,osca1245,0,,Wallace 2007,Both internally headed and pronominal relativisation attested: the former is more common?,Rel_Clause_0,
+,Prohib_Clause,osca1245,1,,Wallace 2007,Prohibitions use the subjunctive (as opposed to the imperative),Prohib_Clause_1,
+,Pos_Coord,umbr1253,0,,Dupraz 2016,Umbrian may have been asyndetic but the best candidate is medial et,Pos_Coord_0,
+,Agr_Acc,umbr1253,1,,"Wallace 2007, 18",,Agr_Acc_1,
+,Agr_Acc,umbr1253,1,,"Wallace 2007, 18",,Agr_Acc_1,
+,Agr_Acc,umbr1253,1,,"Wallace 2007, 18",,Agr_Acc_1,
+,Overt_Acc,umbr1253,1,,"Wallace 2007, 18",,Overt_Acc_1,
+,Aff_Nom,umbr1253,0,,Wallace 2007,,Aff_Nom_0,
+,Aff_Vrb,umbr1253,0,,Wallace 2007,,Aff_Vrb_0,
+,Loc_Obj,umbr1253,1,,Wallace 2007,,Loc_Obj_1,
+,Loc_Gen,umbr1253,0,,Wallace 2007,,Loc_Gen_0,
+,Agr_Gend,umbr1253,1,,Wallace 2007,,Agr_Gend_1,
+,Ord_Acc,umbr1253,0,,"Pitts 2023, 168",,Ord_Acc_0,
+,Ord_Gen,umbr1253,0,,"Pitts 2023, 184",,Ord_Gen_0,
+,Ord_Adj,umbr1253,0,,"Pitts 2023, 179",,Ord_Adj_0,
+,Pos_Coord,ital1284,1,,"De Vaan 2008, 506",*kwe was probably the productive coordinator in Proto-Italic while *eti was adverbial,Pos_Coord_1,
+,Agr_Acc,ital1284,1,,van der Staaij 1995,,Agr_Acc_1,
+,Agr_Dat,ital1284,1,,van der Staaij 1995,,Agr_Dat_1,
+,Agr_Loc,ital1284,1,,van der Staaij 1995,,Agr_Loc_1,
+,Aff_Nom,ital1284,0,,van der Staaij 1995,,Aff_Nom_0,
+,Aff_Vrb,ital1284,0,,van der Staaij 1995,,Aff_Vrb_0,
+,Loc_Obj,ital1284,1,,van der Staaij 1995,,Loc_Obj_1,
+,Loc_Gen,ital1284,0,,van der Staaij 1995,,Loc_Gen_0,
+,Overt_Acc,ital1284,1,,van der Staaij 1995,,Overt_Acc_1,
+,Agr_Gend,ital1284,1,,van der Staaij 1995,,Agr_Gend_1,
+,Ord_Acc,ital1284,0,,own judgement,Most probable based on Italic evidence,Ord_Acc_0,
+,Ord_Gen,ital1284,0,,own judgement,Most probable based on Italic evidence,Ord_Gen_0,
+,Ord_Adj,ital1284,NA,,own judgement,Early Italic numerals may preserve a relic of AN order but NA is otherwise sufficiently dominant to make reconstruction risky,Ord_Adj_NA,
+,Pos_Coord,mess1244,1,,Pitts 2022,Postpositional -ti is the most common (and most flexible) coordination strategy,Pos_Coord_1,
+,Agr_Acc,mess1244,1,,Matzinger 2019,,Agr_Acc_1,
+,Agr_Dat,mess1244,1,,Matzinger 2019,,Agr_Dat_1,
+,Agr_Loc,mess1244,0,,"Matzinger 2019, 91",The locative is 'zumeist' fortified by an adposition,Agr_Loc_0,
+,Aff_Nom,mess1244,0,,Matzinger 2019,,Aff_Nom_0,
+,Aff_Vrb,mess1244,0,,Matzinger 2019,,Aff_Vrb_0,
+,Loc_Obj,mess1244,1,,Matzinger 2019,,Loc_Obj_1,
+,Loc_Gen,mess1244,0,,Matzinger 2019,,Loc_Gen_0,
+,Exp_Case,mess1244,,,,,Exp_Case_,
+,Agr_Gend,mess1244,1,,Matzinger 2019,,Agr_Gend_1,
+,Ord_Obj,mess1244,0,,"Matzinger 2019, 93","OV is most common, although both orders occur",Ord_Obj_0,
+,Ord_Gen,mess1244,0,,"Matzinger 2019, 92",,Ord_Gen_0,
+,Ord_Adj,mess1244,0,,"Matzinger 2019, 92",,Ord_Adj_0,
+,Overt_Acc,mess1244,,,,,Overt_Acc_,
+,Align_Nom,mess1244,,,,,Align_Nom_,
+,Rank_Temp,mess1244,NA,,,,Rank_Temp_NA,
+,Rel_Head,mess1244,0,,,Relative pronoun,Rel_Head_0,
+,Rel_Gap,mess1244,1,,,Relative pronoun,Rel_Gap_1,
+,Prohib_Clause,mess1244,,,,,Prohib_Clause_,
+,Pos_Coord,vene1257,0,,"Lejeune 1974, 72",There are somewhat more cases of medial ke than postpositional kve,Pos_Coord_0,
+,Agr_Acc,vene1257,1,,"Lejeune 1974, 89",,Agr_Acc_1,
+,Agr_Dat,vene1257,1,,"Lejeune 1974, 89",,Agr_Dat_1,
+,Agr_Loc,vene1257,NA,,"Lejeune 1974, 89",No locative constructions are attested: Lejeune finds existence of a locative case 'présumable' but has no actual evidence,Agr_Loc_NA,
+,Aff_Nom,vene1257,0,,Lejeune 1974,,Aff_Nom_0,
+,Aff_Vrb,vene1257,0,,Lejeune 1974,,Aff_Vrb_0,
+,Loc_Obj,vene1257,1,,Lejeune 1974,,Loc_Obj_1,
+,Loc_Gen,vene1257,0,,Lejeune 1974,,Loc_Gen_0,
+,Exp_Case,vene1257,,,,,Exp_Case_,
+,Agr_Gend,vene1257,1,,Lejeune 1974,,Agr_Gend_1,
+,Ord_Obj,vene1257,,,,,Ord_Obj_,
+,Ord_Gen,vene1257,,,,,Ord_Gen_,
+,Ord_Adj,vene1257,,,,,Ord_Adj_,
+,Overt_Acc,vene1257,,,,,Overt_Acc_,
+,Align_Nom,vene1257,,,,,Align_Nom_,
+,Rank_Temp,vene1257,,,,,Rank_Temp_,
+,Rel_Head,vene1257,,,,,Rel_Head_,
+,Rel_Gap,vene1257,,,,,Rel_Gap_,
+,Prohib_Clause,vene1257,,,,,Prohib_Clause_,
+,Pos_Coord,sume1241,1,,"Woodard 2004, 51",See also Pitts 2023 for a discussion of the status of the Sumerian construction,Pos_Coord_1,medial = 0
+,Ord_Obj,sume1241,0,,"Woodard 2004, 50","SOV is typical, but movement for pragmatic reasons is possible",Ord_Obj_0,OV = 0
+,Ord_Gen,sume1241,1,,"Woodard 2004, 33",,Ord_Gen_1,GN = 0
+,Ord_Adj,sume1241,0,,"Woodard 2004, 33",,Ord_Adj_0,NA = 0
+,Rank_Temp,sume1241,1,,"Woodard 2004, 53",Temporal clauses involve nominalised verb forms?,Rank_Temp_1,balanced = 0
+,Aff_Nom,sume1241,0,,"Woodard 2004, 32",,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,sume1241,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,sume1241,0,,"Woodard 2004, 35",,Agr_Gend_0,no agreement = 0
+,Exp_Case,sume1241,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,sume1241,0,,"Woodard 2004, 47",Prefixed-marking of transitive objects in the third person,Loc_Obj_0,head-marked = 0
+,Loc_Gen,sume1241,0,,"Woodard 2004, 32",,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,sume1241,1,,"Woodard 2004, 34",,Align_Nom_1,accusative = 0
+,Overt_Acc,sume1241,0,,"Woodard 2004, 34",Absolutive case is zero-marked,Overt_Acc_0,not overt = 0
+,Agr_Acc,sume1241,0,,"Woodard 2004, 34",Absolutive case is zero-marked,Agr_Acc_0,no agreement = 0
+,Agr_Dat,sume1241,0,,"Edzard 2003, 33",Dative affix not obligatorily adjacent to head of noun phrase,Agr_Dat_0,no agreement = 0
+,Agr_Loc,sume1241,0,,"Edzard 2003, 33",Dative/locative affix not obligatorily adjacent to head of noun phrase,Agr_Loc_0,no agreement = 0
+,Rel_Head,sume1241,,,,,Rel_Head_,no head = 0
+,Rel_Gap,sume1241,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,sume1241,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,elam1244,0,,"Woodard 2003, 87",,Pos_Coord_0,medial = 0
+,Ord_Obj,elam1244,0,,"Woodard 2003, 84","Object precedes verb in Middle and Neo-Elamite, normally",Ord_Obj_0,OV = 0
+,Ord_Gen,elam1244,1,,"Woodard 2003, 86","Genitive follows, with some exceptions",Ord_Gen_1,GN = 0
+,Ord_Adj,elam1244,NA,,,,Ord_Adj_NA,NA = 0
+,Rank_Temp,elam1244,0,,"Woodard 2003, 88",Not clearly discussed?,Rank_Temp_0,balanced = 0
+,Aff_Nom,elam1244,0,,Woodard 2003,,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,elam1244,0,,Woodard 2003,,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,elam1244,0,,"Woodard 2003, 74",An animate / inanimate distinction is redundantly expressed on attributes,Agr_Gend_0,no agreement = 0
+,Exp_Case,elam1244,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,elam1244,1,,"Khačikjan 1998, 14",Object is not marked,Loc_Obj_1,head-marked = 0
+,Loc_Gen,elam1244,0,,"Woodard 2003, 86",,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,elam1244,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,elam1244,0,,"Khačikjan 1998, 14",Object is not marked,Overt_Acc_0,not overt = 0
+,Agr_Acc,elam1244,0,,"Woodard 2003, 74",Case relators are expressed with postpositions which may be attached to the noun phrase or to entire clauses,Agr_Acc_0,no agreement = 0
+,Agr_Dat,elam1244,0,,"Woodard 2003, 74",Case relators are expressed with postpositions which may be attached to the noun phrase or to entire clauses,Agr_Dat_0,no agreement = 0
+,Agr_Loc,elam1244,0,,"Woodard 2003, 74",Case relators are expressed with postpositions which may be attached to the noun phrase or to entire clauses,Agr_Loc_0,no agreement = 0
+,Rel_Head,elam1244,,,,,Rel_Head_,no head = 0
+,Rel_Gap,elam1244,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,elam1244,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,hurr1240,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,hurr1240,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,hurr1240,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,hurr1240,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,hurr1240,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,hurr1240,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,hurr1240,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,hurr1240,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,hurr1240,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,hurr1240,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,hurr1240,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,hurr1240,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,hurr1240,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,hurr1240,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,hurr1240,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,hurr1240,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,hurr1240,,,,,Rel_Head_,no head = 0
+,Rel_Gap,hurr1240,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,hurr1240,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,urar1245,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,urar1245,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,urar1245,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,urar1245,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,urar1245,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,urar1245,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,urar1245,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,urar1245,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,urar1245,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,urar1245,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,urar1245,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,urar1245,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,urar1245,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,urar1245,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,urar1245,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,urar1245,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,urar1245,,,,,Rel_Head_,no head = 0
+,Rel_Gap,urar1245,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,urar1245,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,afro1255,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,afro1255,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,afro1255,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,afro1255,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,afro1255,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,afro1255,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,afro1255,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,afro1255,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,afro1255,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,afro1255,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,afro1255,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,afro1255,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,afro1255,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,afro1255,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,afro1255,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,afro1255,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,afro1255,,,,,Rel_Head_,no head = 0
+,Rel_Gap,afro1255,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,afro1255,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,egyp1246,0,,Pitts 2023,,Pos_Coord_0,medial = 0
+,Ord_Obj,egyp1246,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,egyp1246,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,egyp1246,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,egyp1246,1,,"Woodard 2003, 186",in + nominalised verb?,Rank_Temp_1,balanced = 0
+,Aff_Nom,egyp1246,0,-1500,Woodard 2003,,Aff_Nom_0,suffixed = 0
+,Aff_Nom,egyp1246,1,500,"Woodard 2003, 180",Coptic only prefixed,Aff_Nom_1,
+,Aff_Vrb,egyp1246,0,,Woodard 2003,,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,egyp1246,1,,"Woodard 2003, 175","Not fully clear: adjectives morphosyntactically 'like nouns', which have gender",Agr_Gend_1,no agreement = 0
+,Exp_Case,egyp1246,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,egyp1246,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,egyp1246,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,egyp1246,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,egyp1246,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,egyp1246,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,egyp1246,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,egyp1246,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,egyp1246,1,,"Woodard 2003, 186",,Rel_Head_1,no head = 0
+,Rel_Gap,egyp1246,0,,"Woodard 2003, 186",Strategies shown include both gapped and non-gapped: 3 of 4 examples are gapped,Rel_Gap_0,gap = 0
+,Prohib_Clause,egyp1246,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,akka1240,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,akka1240,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,akka1240,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,akka1240,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,akka1240,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,akka1240,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,akka1240,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,akka1240,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,akka1240,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,akka1240,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,akka1240,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,akka1240,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,akka1240,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,akka1240,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,akka1240,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,akka1240,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,akka1240,,,,,Rel_Head_,no head = 0
+,Rel_Gap,akka1240,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,akka1240,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,ugar1238,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,ugar1238,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,ugar1238,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,ugar1238,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,ugar1238,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,ugar1238,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,ugar1238,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,ugar1238,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,ugar1238,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,ugar1238,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,ugar1238,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,ugar1238,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,ugar1238,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,ugar1238,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,ugar1238,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,ugar1238,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,ugar1238,,,,,Rel_Head_,no head = 0
+,Rel_Gap,ugar1238,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,ugar1238,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,anci1244,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,anci1244,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,anci1244,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,anci1244,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,anci1244,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,anci1244,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,anci1244,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,anci1244,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,anci1244,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,anci1244,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,anci1244,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,anci1244,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,anci1244,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,anci1244,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,anci1244,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,anci1244,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,anci1244,,,,,Rel_Head_,no head = 0
+,Rel_Gap,anci1244,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,anci1244,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,phoe1239,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,phoe1239,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,phoe1239,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,phoe1239,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,phoe1239,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,phoe1239,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,phoe1239,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,phoe1239,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,phoe1239,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,phoe1239,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,phoe1239,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,phoe1239,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,phoe1239,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,phoe1239,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,phoe1239,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,phoe1239,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,phoe1239,,,,,Rel_Head_,no head = 0
+,Rel_Gap,phoe1239,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,phoe1239,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,aram1259,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,aram1259,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,aram1259,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,aram1259,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,aram1259,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,aram1259,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,aram1259,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,aram1259,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,aram1259,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,aram1259,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,aram1259,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,aram1259,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,aram1259,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,aram1259,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,aram1259,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,aram1259,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,aram1259,,,,,Rel_Head_,no head = 0
+,Rel_Gap,aram1259,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,aram1259,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,geez1241,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,geez1241,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,geez1241,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,geez1241,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,geez1241,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,geez1241,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,geez1241,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,geez1241,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,geez1241,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,geez1241,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,geez1241,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,geez1241,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,geez1241,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,geez1241,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,geez1241,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,geez1241,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,geez1241,,,,,Rel_Head_,no head = 0
+,Rel_Gap,geez1241,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,geez1241,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,sayh1236,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,sayh1236,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,sayh1236,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,sayh1236,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,sayh1236,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,sayh1236,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,sayh1236,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,sayh1236,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,sayh1236,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,sayh1236,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,sayh1236,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,sayh1236,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,sayh1236,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,sayh1236,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,sayh1236,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,sayh1236,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,sayh1236,,,,,Rel_Head_,no head = 0
+,Rel_Gap,sayh1236,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,sayh1236,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,anci1245,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,anci1245,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,anci1245,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,anci1245,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,anci1245,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,anci1245,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,anci1245,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,anci1245,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,anci1245,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,anci1245,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,anci1245,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,anci1245,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,anci1245,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,anci1245,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,anci1245,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,anci1245,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,anci1245,,,,,Rel_Head_,no head = 0
+,Rel_Gap,anci1245,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,anci1245,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,hitt1242,1,,"Hoffner & Melchert 2008, 400",-a or -ya connects individual words,Pos_Coord_1,medial = 0
+,Ord_Obj,hitt1242,0,,"Woodard 2003, 570",OV word order,Ord_Obj_0,OV = 0
+,Ord_Gen,hitt1242,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,hitt1242,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,hitt1242,0,,"Hoffner & Melchert 2008, 414",No verb alterations in subordinate clauses,Rank_Temp_0,balanced = 0
+,Aff_Nom,hitt1242,0,,Hoffner & Melchert 2008,Suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,hitt1242,0,,Hoffner & Melchert 2008,Suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,hitt1242,0,,Hoffner & Melchert 2008,Gender agreement,Agr_Gend_0,no agreement = 0
+,Exp_Case,hitt1242,0,,Hoffner & Melchert 2008,Coexponence,Exp_Case_0,no coexponence = 0
+,Loc_Obj,hitt1242,1,,Woodard 2003,,Loc_Obj_1,head-marked = 0
+,Loc_Gen,hitt1242,0,,Woodard 2003,,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,hitt1242,0,,"Woodard 2003, 560",Ergativity with neuters,Align_Nom_0,accusative = 0
+,Overt_Acc,hitt1242,1,,Hoffner & Melchert 2008,Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,hitt1242,1,,Hoffner & Melchert 2008,Accusative case,Agr_Acc_1,no agreement = 0
+,Agr_Dat,hitt1242,1,,"Hoffner & Melchert 2008, 257",,Agr_Dat_1,no agreement = 0
+,Agr_Loc,hitt1242,1,,"Hoffner & Melchert 2008, 261",,Agr_Loc_1,no agreement = 0
+,Rel_Head,hitt1242,0,,"Woodard 2003, 563",Relative pronoun,Rel_Head_0,no head = 0
+,Rel_Gap,hitt1242,1,,"Woodard 2003, 563",Relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,hitt1242,1,,Hoffner & Melchert 313,"Imperative positive, indicative negative",Prohib_Clause_1,same imperative = 0
+,Pos_Coord,luvi1235,1,,"Woodard 2003, 582",Clitic -ha conjoins nouns,Pos_Coord_1,medial = 0
+,Ord_Obj,luvi1235,0,,"Woodard 2003, 582",Unmarked OV,Ord_Obj_0,OV = 0
+,Ord_Gen,luvi1235,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,luvi1235,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,luvi1235,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,luvi1235,0,,"Woodard 2003, 580",Suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,luvi1235,0,,"Woodard 2003, 582",Mostly suffixed?,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,luvi1235,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,luvi1235,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,luvi1235,1,,Woodard 2003,,Loc_Obj_1,head-marked = 0
+,Loc_Gen,luvi1235,0,,"Woodard 2003, 581",Genitive expressed by a relational adjective instead,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,luvi1235,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,luvi1235,1,,Woodard 2003,,Overt_Acc_1,not overt = 0
+,Agr_Acc,luvi1235,1,,Woodard 2003,,Agr_Acc_1,no agreement = 0
+,Agr_Dat,luvi1235,1,,Woodard 2003,,Agr_Dat_1,no agreement = 0
+,Agr_Loc,luvi1235,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,luvi1235,0,,"Woodard 2003, 581","Needs to be checked: ""typically preceding with a resumptive pronoun""?",Rel_Head_0,no head = 0
+,Rel_Gap,luvi1235,1,,"Woodard 2003, 581",Relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,luvi1235,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,pala1331,NA,,"Woodard 2003, 589",No simple 'and' attested,Pos_Coord_NA,medial = 0
+,Ord_Obj,pala1331,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,pala1331,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,pala1331,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,pala1331,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,pala1331,0,,"Woodard 2003, 588",Suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,pala1331,0,,"Woodard 2003, 588",Suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,pala1331,1,,"Woodard 2003, 589",Agreement attested,Agr_Gend_1,no agreement = 0
+,Exp_Case,pala1331,1,,"Woodard 2003, 588",Coexponence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,pala1331,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,pala1331,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,pala1331,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,pala1331,1,,"Woodard 2003, 588",Accusative case for animate nouns,Overt_Acc_1,not overt = 0
+,Agr_Acc,pala1331,1,,"Woodard 2003, 589",Agreement attested,Agr_Acc_1,no agreement = 0
+,Agr_Dat,pala1331,1,,"Woodard 2003, 589",Agreement attested,Agr_Dat_1,no agreement = 0
+,Agr_Loc,pala1331,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,pala1331,1,,"Woodard 2003, 589",Strongly implies correlative! but CHECK!,Rel_Head_1,no head = 0
+,Rel_Gap,pala1331,1,,"Woodard 2003, 588",Mentions relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,pala1331,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,lyci1241,0,,"Woodard 2003, 589",medial 'se' 'me',Pos_Coord_0,medial = 0
+,Ord_Obj,lyci1241,1,,"Woodard 2003, 589",Basic VSO word order,Ord_Obj_1,OV = 0
+,Ord_Gen,lyci1241,1,,"Woodard 2003, 589",Relational' adjectives (substituting for genitives) tend to follow,Ord_Gen_1,GN = 0
+,Ord_Adj,lyci1241,1,,"Woodard 2003, 589",Adjectives tend to precede,Ord_Adj_1,NA = 0
+,Rank_Temp,lyci1241,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,lyci1241,0,,Woodard 2003,Suffixing,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,lyci1241,0,,Woodard 2003,Suffixing,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,lyci1241,,,,No explicit mention made of attribute agreement by gender in Woodard,Agr_Gend_,no agreement = 0
+,Exp_Case,lyci1241,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,lyci1241,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,lyci1241,1,,Woodard 2003,,Loc_Gen_1,dependent-marked = 0
+,Align_Nom,lyci1241,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,lyci1241,1,,Woodard 2003,,Overt_Acc_1,not overt = 0
+,Agr_Acc,lyci1241,1,,Woodard 2003,,Agr_Acc_1,no agreement = 0
+,Agr_Dat,lyci1241,1,,Woodard 2003,,Agr_Dat_1,no agreement = 0
+,Agr_Loc,lyci1241,1,,Woodard 2003,,Agr_Loc_1,no agreement = 0
+,Rel_Head,lyci1241,,,,,Rel_Head_,no head = 0
+,Rel_Gap,lyci1241,1,,"Woodard 2003, 597",Mention is made of a relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,lyci1241,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,lydi1241,1,,"Woodard 2003, 607",-k,Pos_Coord_1,medial = 0
+,Ord_Obj,lydi1241,0,,"Woodard 2003, 606",SOV word order,Ord_Obj_0,OV = 0
+,Ord_Gen,lydi1241,0,,"Woodard 2003, 606",Relational' adjectives also precede,Ord_Gen_0,GN = 0
+,Ord_Adj,lydi1241,1,,"Woodard 2003, 606",Adjectives precede,Ord_Adj_1,NA = 0
+,Rank_Temp,lydi1241,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,lydi1241,0,,Woodard 2003,Suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,lydi1241,0,,Woodard 2003,Suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,lydi1241,1,,"Woodard 2003, 605","gender, number and case agreement",Agr_Gend_1,no agreement = 0
+,Exp_Case,lydi1241,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,lydi1241,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,lydi1241,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,lydi1241,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,lydi1241,1,,"Woodard 2003, 605",at least in animates,Overt_Acc_1,not overt = 0
+,Agr_Acc,lydi1241,1,,"Woodard 2003, 605",at least in animates,Agr_Acc_1,no agreement = 0
+,Agr_Dat,lydi1241,,,,Melchert (in Woodard) speaks of 'dative-locative',Agr_Dat_,no agreement = 0
+,Agr_Loc,lydi1241,,,,Melchert (in Woodard) speaks of 'dative-locative',Agr_Loc_,no agreement = 0
+,Rel_Head,lydi1241,1,,"Woodard 2003, 606",To check? again speaks of 'resumptive' pronoun,Rel_Head_1,no head = 0
+,Rel_Gap,lydi1241,1,,"Woodard 2003, 606",Relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,lydi1241,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,cari1274,,,,Coordinator 'sb',Pos_Coord_,medial = 0
+,Ord_Obj,cari1274,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,cari1274,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,cari1274,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,cari1274,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,cari1274,1,,"Woodard 2003, 611-2",,Aff_Nom_1,suffixed = 0
+,Aff_Vrb,cari1274,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,cari1274,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,cari1274,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,cari1274,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,cari1274,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,cari1274,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,cari1274,1,,"Woodard 2003, 611-2",,Overt_Acc_1,not overt = 0
+,Agr_Acc,cari1274,1,,"Woodard 2003, 611-2",,Agr_Acc_1,no agreement = 0
+,Agr_Dat,cari1274,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,cari1274,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,cari1274,,,,,Rel_Head_,no head = 0
+,Rel_Gap,cari1274,1,,"Woodard 2003, 612",Mention of relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,cari1274,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,gree1276,1,,own knowledge,Mostly medial,Pos_Coord_1,medial = 0
+,Ord_Obj,gree1276,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,gree1276,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,gree1276,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,gree1276,0,,own knowledge,Balanced?,Rank_Temp_0,balanced = 0
+,Aff_Nom,gree1276,0,,own knowledge,Suffixal,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,gree1276,0,,own knowledge,Suffixal,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,gree1276,1,,own knowledge,Gender agreement,Agr_Gend_1,no agreement = 0
+,Exp_Case,gree1276,1,,own knowledge,Case and number coexponence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,gree1276,1,,own knowledge,Dependent-marked,Loc_Obj_1,head-marked = 0
+,Loc_Gen,gree1276,0,,own knowledge,Dependent-marked,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,gree1276,0,,own knowledge,Accusative alignment,Align_Nom_0,accusative = 0
+,Overt_Acc,gree1276,1,,own knowledge,Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,gree1276,1,,own knowledge,Agreeing accusative,Agr_Acc_1,no agreement = 0
+,Agr_Dat,gree1276,1,,own knowledge,Agreeing dating,Agr_Dat_1,no agreement = 0
+,Agr_Loc,gree1276,0,,own knowledge,Preposition which does not agree,Agr_Loc_0,no agreement = 0
+,Rel_Head,gree1276,0,,own knowledge,Relative pronoun,Rel_Head_0,no head = 0
+,Rel_Gap,gree1276,1,,own knowledge,Relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,gree1276,1,,own knowledge,Typically? different,Prohib_Clause_1,same imperative = 0
+,Pos_Coord,sans1269,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,sans1269,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,sans1269,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,sans1269,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,sans1269,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,sans1269,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,sans1269,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,sans1269,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,sans1269,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,sans1269,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,sans1269,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,sans1269,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,sans1269,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,sans1269,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,sans1269,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,sans1269,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,sans1269,,,,,Rel_Head_,no head = 0
+,Rel_Gap,sans1269,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,sans1269,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,oldp1254,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,oldp1254,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,oldp1254,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,oldp1254,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,oldp1254,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,oldp1254,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,oldp1254,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,oldp1254,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,oldp1254,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,oldp1254,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,oldp1254,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,oldp1254,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,oldp1254,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,oldp1254,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,oldp1254,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,oldp1254,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,oldp1254,,,,,Rel_Head_,no head = 0
+,Rel_Gap,oldp1254,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,oldp1254,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,aves1237,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,aves1237,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,aves1237,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,aves1237,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,aves1237,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,aves1237,,,,,Aff_Nom_,suffixed = 0
+,Aff_Vrb,aves1237,,,,,Aff_Vrb_,suffixed = 0
+,Agr_Gend,aves1237,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,aves1237,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,aves1237,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,aves1237,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,aves1237,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,aves1237,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,aves1237,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,aves1237,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,aves1237,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,aves1237,,,,,Rel_Head_,no head = 0
+,Rel_Gap,aves1237,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,aves1237,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,pahl1241,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,pahl1241,0,,"Woodard 2003, 774",Object usually precedes verb,Ord_Obj_0,OV = 0
+,Ord_Gen,pahl1241,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,pahl1241,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,pahl1241,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,pahl1241,0,,"Woodard 2003, 770",Suffixation,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,pahl1241,0,,"Woodard 2003, 772",Suffixation,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,pahl1241,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,pahl1241,1,,"Woodard 2003, 770",Oblique case different in singular and plural,Exp_Case_1,no coexponence = 0
+,Loc_Obj,pahl1241,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,pahl1241,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,pahl1241,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,pahl1241,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,pahl1241,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,pahl1241,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,pahl1241,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,pahl1241,,,,,Rel_Head_,no head = 0
+,Rel_Gap,pahl1241 ,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,pahl1241 ,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,phry1239,,,,,Pos_Coord_,medial = 0
+,Ord_Obj,phry1239,,,,,Ord_Obj_,OV = 0
+,Ord_Gen,phry1239,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,phry1239,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,phry1239,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,phry1239,0,,"Woodard 2003, 784",Suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,phry1239,0,,"Woodard 2003, 785",Suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,phry1239,,,,,Agr_Gend_,no agreement = 0
+,Exp_Case,phry1239,,,,,Exp_Case_,no coexponence = 0
+,Loc_Obj,phry1239,,,,,Loc_Obj_,head-marked = 0
+,Loc_Gen,phry1239,,,,,Loc_Gen_,dependent-marked = 0
+,Align_Nom,phry1239,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,phry1239,,,,,Overt_Acc_,not overt = 0
+,Agr_Acc,phry1239,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,phry1239,,,,,Agr_Dat_,no agreement = 0
+,Agr_Loc,phry1239,,,,,Agr_Loc_,no agreement = 0
+,Rel_Head,phry1239,,,,,Rel_Head_,no head = 0
+,Rel_Gap,phry1239,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,phry1239,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,celt1247,1,,"Woodard 2003, 873",Connective -que; mentions also uTa for coordination of clauses,Pos_Coord_1,medial = 0
+,Ord_Obj,celt1247,0,,"Woodard 2003, 871",OV language,Ord_Obj_0,OV = 0
+,Ord_Gen,celt1247,0,,"Woodard 2003, 871",genitives precede,Ord_Gen_0,GN = 0
+,Ord_Adj,celt1247,0,,"Woodard 2003, 871",adjectives follow,Ord_Adj_0,NA = 0
+,Rank_Temp,celt1247,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,celt1247,0,,"Woodard 2003, 865",Suffixation,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,celt1247,0,,Woodard 2003,Suffixation,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,celt1247,1,,"Woodard 2003, 873",Gender agreement,Agr_Gend_1,no agreement = 0
+,Exp_Case,celt1247,1,,"Woodard 2003, 873",Case-number coexponence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,celt1247,1,,Woodard 2003,Accusative case marked on dependent,Loc_Obj_1,head-marked = 0
+,Loc_Gen,celt1247,0,,Woodard 2003,Genitive case,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,celt1247,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,celt1247,1,,Woodard 2003,Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,celt1247,1,,Woodard 2003,Agreeing accusative,Agr_Acc_1,no agreement = 0
+,Agr_Dat,celt1247,1,,Woodard 2003,Agreeing dative,Agr_Dat_1,no agreement = 0
+,Agr_Loc,celt1247,1,,Woodard 2003,"Locative case attested, cases agree",Agr_Loc_1,no agreement = 0
+,Rel_Head,celt1247,,,,,Rel_Head_,no head = 0
+,Rel_Gap,celt1247,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,celt1247,NA,,Woodard 2003,Not described in sufficient detail,Prohib_Clause_NA,same imperative = 0
+,Pos_Coord,tran1282,1,,"Woodard 2003, 874",-kwe in Lepontic,Pos_Coord_1,medial = 0
+,Ord_Obj,tran1282,1,,"Woodard 2003, 875",Predominant surface order is verb-initial,Ord_Obj_1,OV = 0
+,Ord_Obj,lepo1240 ,0,,"Woodard 2003, 873","Order not clear, perhaps OV? Counterexample has movement. Simple count says OV",Ord_Obj_0,OV = 0
+,Ord_Gen,tran1282,1,,"Woodard 2003, 875",Genitive follows,Ord_Gen_1,GN = 0
+,Ord_Adj,tran1282,0,,"Woodard 2003, 875",Adjectives follow,Ord_Adj_0,NA = 0
+,Rank_Temp,tran1282,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,tran1282,0,,"Woodard 2003, 865",Suffixation,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,tran1282,0,,"Woodard 2003, 870",Suffixation,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,tran1282,1,,"Woodard 2003, 877",Gender agreement on adjectives,Agr_Gend_1,no agreement = 0
+,Exp_Case,tran1282,1,,"Woodard 2003, 865",Case-number coexponence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,tran1282,1,,Woodard 2003,Accusative case marked on dependent,Loc_Obj_1,head-marked = 0
+,Loc_Gen,tran1282,0,,Woodard 2003,Genitive case,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,tran1282,,,,Presumably accusative?,Align_Nom_,accusative = 0
+,Overt_Acc,tran1282,1,,Woodard 2003,Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,tran1282,1,,Woodard 2003,Agreeing accusative,Agr_Acc_1,no agreement = 0
+,Agr_Dat,tran1282,1,,Woodard 2003,Agreeing dative,Agr_Dat_1,no agreement = 0
+,Agr_Loc,tran1282,1,,Woodard 2003,"Locative case attested, cases agree",Agr_Loc_1,no agreement = 0
+,Rel_Head,tran1282,0,,"Woodard 2003, 876",Gap strategy? Subordinating particle is not specific to relative clauses,Rel_Head_0,no head = 0
+,Rel_Gap,tran1282,0,,"Woodard 2003, 876",Gap strategy? Subordinating particle is not specific to relative clauses,Rel_Gap_0,gap = 0
+,Prohib_Clause,tran1282,NA,,Woodard 2003,Not described in sufficient detail,Prohib_Clause_NA,same imperative = 0
+,Pos_Coord,goth1244,,,"Woodard 2003, 905",Gothic has both -uh and jah (postp and medial): which dominates?,Pos_Coord_,medial = 0
+,Ord_Obj,goth1244,0,,"Woodard 2003, 904",Object before the verb where no literal translation was possible,Ord_Obj_0,OV = 0
+,Ord_Gen,goth1244,,,,,Ord_Gen_,GN = 0
+,Ord_Adj,goth1244,,,,,Ord_Adj_,NA = 0
+,Rank_Temp,goth1244,,,,,Rank_Temp_,balanced = 0
+,Aff_Nom,goth1244,0,,"Woodard 2003, 894",Suffixation,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,goth1244,0,,"Woodard 2003, 900",Suffixation,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,goth1244,1,,"Woodard 2003, 897","Adjectives agree for gender, case, number",Agr_Gend_1,no agreement = 0
+,Exp_Case,goth1244,1,,Woodard 2003,Coexponence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,goth1244,1,,Woodard 2003,Dependent-marking (accusative case),Loc_Obj_1,head-marked = 0
+,Loc_Gen,goth1244,0,,Woodard 2003,Dependent-marking (genitive case),Loc_Gen_0,dependent-marked = 0
+,Align_Nom,goth1244,,,,,Align_Nom_,accusative = 0
+,Overt_Acc,goth1244,1,,Woodard 2003,Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,goth1244,1,,"Woodard 2003, 897","Adjectives agree for gender, case, number",Agr_Acc_1,no agreement = 0
+,Agr_Dat,goth1244,1,,"Woodard 2003, 897","Adjectives agree for gender, case, number",Agr_Dat_1,no agreement = 0
+,Agr_Loc,goth1244,0,,"Woodard 2009, 904",Presumably non-agreeing preposition in,Agr_Loc_0,no agreement = 0
+,Rel_Head,goth1244,,,,,Rel_Head_,no head = 0
+,Rel_Gap,goth1244,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,goth1244,,,,,Prohib_Clause_,same imperative = 0
+,Pos_Coord,olde1239,NA,,,Not clearly discussed by Woodard,Pos_Coord_NA,medial = 0
+,Ord_Obj,olde1239,0,,"Woodard 2009, 919",OV order,Ord_Obj_0,OV = 0
+,Ord_Gen,olde1239,1,,"Woodard 2009, 917",Genitives usually follow,Ord_Gen_1,GN = 0
+,Ord_Adj,olde1239,0,,"Woodard 2009, 917",Adjectives follow,Ord_Adj_0,NA = 0
+,Rank_Temp,olde1239,NA,,"Woodard 2009, 917",No examples of subordinate clauses,Rank_Temp_NA,balanced = 0
+,Aff_Nom,olde1239,0,,"Woodard 2003, 913",Suffixation,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,olde1239,0,,"Woodard 2003, 913",Suffixation,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,olde1239,1,,"Woodard 2003, 918","All dependents agree in case, number and gender",Agr_Gend_1,no agreement = 0
+,Exp_Case,olde1239,1,,"Woodard 2003, 913",Coexponence clearly in evidence,Exp_Case_1,no coexponence = 0
+,Loc_Obj,olde1239,1,,Woodard 2003,dependent-marked,Loc_Obj_1,head-marked = 0
+,Loc_Gen,olde1239,0,,Woodard 2003,dependent-marked,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,olde1239,1,,Woodard 2003,accusative alignment,Align_Nom_1,accusative = 0
+,Overt_Acc,olde1239,1,,"Woodard 2003, 913",Accusative case,Overt_Acc_1,not overt = 0
+,Agr_Acc,olde1239,1,,"Woodard 2003, 918","All dependents agree in case, number and gender",Agr_Acc_1,no agreement = 0
+,Agr_Dat,olde1239,1,,"Woodard 2003, 918","All dependents agree in case, number and gender",Agr_Dat_1,no agreement = 0
+,Agr_Loc,olde1239,0,,"Woodard 2003, 918",If we count an(a) as a locative?,Agr_Loc_0,no agreement = 0
+,Rel_Head,olde1239,NA,,"Woodard 2009, 917",No examples of subordinate clauses,Rel_Head_NA,no head = 0
+,Rel_Gap,olde1239,NA,,"Woodard 2009, 917",No examples of subordinate clauses,Rel_Gap_NA,gap = 0
+,Prohib_Clause,olde1239,NA,,,Not clearly discussed by Woodard,Prohib_Clause_NA,same imperative = 0
+,Pos_Coord,clas1249,0,,Pitts 2023,?,Pos_Coord_0,medial = 0
+,Ord_Obj,clas1249,0,,"Woodard 2003, 937",Unclear to what extent Clackson (in Woodard) describes the oldest situation,Ord_Obj_0,OV = 0
+,Ord_Gen,clas1249,1,,"Woodard 2003, 937",Unclear to what extent Clackson (in Woodard) describes the oldest situation,Ord_Gen_1,GN = 0
+,Ord_Adj,clas1249,1,,"Woodard 2003, 937",Unclear to what extent Clackson (in Woodard) describes the oldest situation,Ord_Adj_1,NA = 0
+,Rank_Temp,clas1249,0,,"Woodard 2003, 937","""subordinate clauses which have an internal strucuture similar to that of main clauses"" - not fully clear?",Rank_Temp_0,balanced = 0
+,Aff_Nom,clas1249,0,,"Woodard 2003, 928",Most suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,clas1249,0,,"Woodard 2003, 928",Most suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,clas1249,0,,"Woodard 2003, 929",No gender,Agr_Gend_0,no agreement = 0
+,Exp_Case,clas1249,1,,"Woodard 2003, 930",Coexponence (although increasingly less through time!),Exp_Case_1,no coexponence = 0
+,Loc_Obj,clas1249,1,,Woodard 2003,dependent-marking (in plural),Loc_Obj_1,head-marked = 0
+,Loc_Gen,clas1249,0,,Woodard 2003,genitive case,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,clas1249,0,,Woodard 2003,"neutral alignment in singular, accusative in plural",Align_Nom_0,accusative = 0
+,Overt_Acc,clas1249,0,,Woodard 2003,Zero-marked in the singular?,Overt_Acc_0,not overt = 0
+,Agr_Acc,clas1249,0,,Woodard 2003,"Concord allowed, but occurs only in specific circumstances",Agr_Acc_0,no agreement = 0
+,Agr_Dat,clas1249,0,,Woodard 2003,"Concord allowed, but occurs only in specific circumstances",Agr_Dat_0,no agreement = 0
+,Agr_Loc,clas1249,0,,"Woodard 2003, 938",Local functions only combined with prepositions,Agr_Loc_0,no agreement = 0
+,Rel_Head,clas1249,,,,,Rel_Head_,no head = 0
+,Rel_Gap,clas1249,,,,,Rel_Gap_,gap = 0
+,Prohib_Clause,clas1249,1,,"Woodard 2003, 933",Different forms (aspectual),Prohib_Clause_1,same imperative = 0
+,Pos_Coord,etru1241,1,,Pitts 2023,A basic coordinating conjunction -c (maybe also -ca),Pos_Coord_1,medial = 0
+,Ord_Obj,etru1241,0,,"Woodard 2003, 961","OV word order is unmarked, although relatively free",Ord_Obj_0,OV = 0
+,Ord_Gen,etru1241,0,-600,"Woodard 2003, 962",GN in archaic Etruscan,Ord_Gen_0,GN = 0
+,Ord_Adj,etru1241,1,-600,"Woodard 2003, 962",No good examples in early Etruscan but Rix (in Woodard) extrapolates from numeral (but cave Umbrian?),Ord_Adj_1,NA = 0
+,Ord_Gen,etru1241,1,-300,"Woodard 2003, 962",NG in late Etruscan,Ord_Gen_1,GN = 0
+,Ord_Adj,etru1241,0,-300,"Woodard 2003, 962",NA in late Etruscan,Ord_Adj_0,NA = 0
+,Rank_Temp,etru1241,0,,"Wallace 2008, 117",Same verb form in subordinate clause,Rank_Temp_0,balanced = 0
+,Aff_Nom,etru1241,0,,Woodard 2003,Mostly suffixed,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,etru1241,0,,Woodard 2003,Mostly suffixed,Aff_Vrb_0,suffixed = 0
+,Agr_Gend,etru1241,0,,"Woodard 2003, 951",No gender,Agr_Gend_0,no agreement = 0
+,Exp_Case,etru1241,0,,"Woodard 2003, 953",Separate number suffixes,Exp_Case_0,no coexponence = 0
+,Loc_Obj,etru1241,1,,Woodard 2003,Object is not marked,Loc_Obj_1,head-marked = 0
+,Loc_Gen,etru1241,0,,Woodard 2003,Genitive is dependent-marked,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,etru1241,0,,"Woodard 2003, 952","The nominative-accusative is a single case, so neutral alignment",Align_Nom_0,accusative = 0
+,Overt_Acc,etru1241,0,,"Woodard 2003, 952",The nominative-accusative is a single case,Overt_Acc_0,not overt = 0
+,Agr_Acc,etru1241,0,,"Woodard 2003, 952",The nominative-accusative is a single case,Agr_Acc_0,no agreement = 0
+,Agr_Dat,etru1241,1,,"Wallace 2008, 97","Case agreement is marked on the attribute, the pertinentive functions as indirect object",Agr_Dat_1,no agreement = 0
+,Agr_Loc,etru1241,1,,Woodard 2003,A locative case exists and agrees,Agr_Loc_1,no agreement = 0
+,Rel_Head,etru1241,0,,"Woodard 2003, 963-4",Relative pronoun,Rel_Head_0,no head = 0
+,Rel_Gap,etru1241,1,,"Woodard 2003, 963-4",Relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,etru1241,0,,"Wallace 2003, 113",Same imperative in negated commands,Prohib_Clause_0,same imperative = 0
+,Pos_Coord,nucl1302,0,,Pitts 2023,,Pos_Coord_0,medial = 0
+,Ord_Obj,nucl1302,1,,"Woodard 2003, 985",Direct object preferably after the verb,Ord_Obj_1,OV = 0
+,Ord_Gen,nucl1302,1,,"Woodard 2003, 985",Possessor after the head noun,Ord_Gen_1,GN = 0
+,Ord_Adj,nucl1302,0,,"Woodard 2003, 985",Adjective after the head noun,Ord_Adj_0,NA = 0
+,Rank_Temp,nucl1302,,,,Not mentioned in Woodard,Rank_Temp_,balanced = 0
+,Aff_Nom,nucl1302,0,,Woodard 2003,,Aff_Nom_0,suffixed = 0
+,Aff_Vrb,nucl1302,,,Woodard 2003,A lot of both: which is dominant?,Aff_Vrb_,suffixed = 0
+,Agr_Gend,nucl1302,0,,Woodard 2003,No reference to gender in Woodard,Agr_Gend_0,no agreement = 0
+,Exp_Case,nucl1302,0,,"Woodard 2003, 973",Number is indicated by a separate morphsx,Exp_Case_0,no coexponence = 0
+,Loc_Obj,nucl1302,0,,"Woodard 2003, 978",A direct object in the dative can be marked on the verb as well as the noun,Loc_Obj_0,head-marked = 0
+,Loc_Gen,nucl1302,0,,"Woodard 2003, 972",A genitive case on the dependent,Loc_Gen_0,dependent-marked = 0
+,Align_Nom,nucl1302,1,,"Woodard 2003, 972","Ergative for perfective verbs, accusative for imperfective verbs (typically?)",Align_Nom_1,accusative = 0
+,Overt_Acc,nucl1302,0,,Woodard 2003,Direct objects are expressed overtly for some verbs (typically?),Overt_Acc_0,not overt = 0
+,Agr_Acc,nucl1302,,,,,Agr_Acc_,no agreement = 0
+,Agr_Dat,nucl1302,1,,"Woodard 2003, 972","There is a dative case, and attributes agree",Agr_Dat_1,no agreement = 0
+,Agr_Loc,nucl1302,,,,No information in Woodard on locatival expressions,Agr_Loc_,no agreement = 0
+,Rel_Head,nucl1302,0,,"Woodard 2003, 974",relative pronoun,Rel_Head_0,no head = 0
+,Rel_Gap,nucl1302,1,,"Woodard 2003, 974",relative pronoun,Rel_Gap_1,gap = 0
+,Prohib_Clause,nucl1302,,,,,Prohib_Clause_,same imperative = 0
